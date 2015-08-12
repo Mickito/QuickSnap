@@ -35,7 +35,6 @@ namespace CardGames
                 else if (SwinGame.KeyTyped(KeyCode.vk_LSHIFT))
                 {
                     myGame.PlayerHit(0);
-                    Console.WriteLine("hi");
                 }
                 else if (SwinGame.KeyTyped(KeyCode.vk_RSHIFT))
                 {
