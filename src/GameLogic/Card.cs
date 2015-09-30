@@ -18,7 +18,7 @@ namespace CardGames.GameLogic
         DIAMOND,
         HEART,
         SPADE,
-	BANANA
+	KIWI
     }
     
     /// <summary>
