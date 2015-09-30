@@ -17,7 +17,8 @@ namespace CardGames.GameLogic
         CLUB,
         DIAMOND,
         HEART,
-        SPADE
+        SPADE,
+	APPLE
     }
     
     /// <summary>
